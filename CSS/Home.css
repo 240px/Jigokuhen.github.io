@@ -1,0 +1,19 @@
+
+html,body{
+    font-family: FC Friday;
+    margin: 0;
+    padding: 0;
+    background-color: #008b8b;
+    text-align: center;
+}
+h1{
+    font-size: 50px;
+    color: #fff;
+    text-shadow: 2px 3px 6px rgba(0, 0, 0, 0.8);
+}
+
+p{
+    color: #fff;
+    font-size: 35px;
+    text-shadow: 2px 3px 6px rgba(0, 0, 0, 0.8);
+}

@@ -1,0 +1,28 @@
+body{
+    background-color: #008b8b;
+    font-family: FC Friday;
+    margin: 0%;
+    padding: 0%;
+    text-align: center;
+}
+
+header{
+    font-size: 50px;
+    color: #fff;
+    text-shadow: 2px 3px 6px rgba(0, 0, 0, 0.8);
+}
+
+.PT{
+    padding: 15px;
+    font-size: 28px;
+    color: #fff;
+    text-shadow: 2px 3px 6px rgba(0, 0, 0, 0.8);
+}
+
+strong{
+    color: #fff;
+    text-shadow: none;
+    text-decoration: underline;
+    text-shadow: 1px 1px 6px rgba(0, 0, 0, 0.8);
+}
+

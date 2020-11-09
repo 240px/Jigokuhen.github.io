@@ -1,0 +1,53 @@
+html{
+    background-image: radial-gradient(circle at 29% 55%, hsla(329,0%,99%,0.05) 0%, hsla(329,0%,99%,0.05) 4%,transparent 4%, transparent 44%,transparent 44%, transparent 100%),radial-gradient(circle at 85% 89%, hsla(329,0%,99%,0.05) 0%, hsla(329,0%,99%,0.05) 51%,transparent 51%, transparent 52%,transparent 52%, transparent 100%),radial-gradient(circle at 6% 90%, hsla(329,0%,99%,0.05) 0%, hsla(329,0%,99%,0.05) 53%,transparent 53%, transparent 64%,transparent 64%, transparent 100%),radial-gradient(circle at 35% 75%, hsla(329,0%,99%,0.05) 0%, hsla(329,0%,99%,0.05) 6%,transparent 6%, transparent 98%,transparent 98%, transparent 100%),radial-gradient(circle at 56% 75%, hsla(329,0%,99%,0.05) 0%, hsla(329,0%,99%,0.05) 16%,transparent 16%, transparent 23%,transparent 23%, transparent 100%),radial-gradient(circle at 42% 0%, hsla(329,0%,99%,0.05) 0%, hsla(329,0%,99%,0.05) 3%,transparent 3%, transparent 26%,transparent 26%, transparent 100%),radial-gradient(circle at 29% 28%, hsla(329,0%,99%,0.05) 0%, hsla(329,0%,99%,0.05) 51%,transparent 51%, transparent 75%,transparent 75%, transparent 100%),radial-gradient(circle at 77% 21%, hsla(329,0%,99%,0.05) 0%, hsla(329,0%,99%,0.05) 35%,transparent 35%, transparent 55%,transparent 55%, transparent 100%),radial-gradient(circle at 65% 91%, hsla(329,0%,99%,0.05) 0%, hsla(329,0%,99%,0.05) 46%,transparent 46%, transparent 76%,transparent 76%, transparent 100%),linear-gradient(45deg, rgb(83, 91, 235),rgb(76, 11, 174));
+    font-family: 'Prompt', sans-serif;
+}
+
+
+
+.gege{
+    width: 100%;
+    max-width: 750px;
+    box-shadow: 1px 1px 4px rgba(15, 135, 255, 1);
+}
+
+.Friends{
+    width: 100%;
+    max-width: 350px;
+    box-shadow: 1px 1px 4px rgba(15, 135, 255, 1);
+}
+
+.text2{
+    color: white;
+    font-size: 20px;
+    text-shadow: 1px 1px 2px rgba(15, 135, 255, 1);
+}
+
+
+.Magang1{
+    color: white;
+    font-size: 20px;
+    text-shadow: 1px 1px 2px rgba(15, 135, 255, 1);
+}
+
+
+
+
+
+.sonteen{
+    color: white;
+    font-size: 30px;
+    text-shadow: 1px 1px 2px rgba(15, 135, 255, 1);
+
+}
+
+video{
+    border-top: 3px solid #8ae8ff;
+    border-right: 3px solid #8ae8ff;
+    border-bottom: 3px solid #8ae8ff;
+    border-left: 3px solid #8ae8ff;
+    border-radius: 40px;
+    box-shadow: 2px 2px 8px 4px rgba(59, 209, 247, 0.61);
+}
+
+

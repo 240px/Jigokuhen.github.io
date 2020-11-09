@@ -1,0 +1,30 @@
+body{
+    background-color: #008b8b;
+    background-attachment: fixed;
+    font-family: FC Friday;
+    margin: 0%;
+    padding: 0%;
+    text-align: center;
+}
+
+h1{
+    font-size: 80px;
+    color: white;
+    text-shadow: 2px 3px 6px rgba(0, 0, 0, 0.8);
+}
+
+video{
+    border-top: 3px solid #8ae8ff;
+    border-right: 3px solid #8ae8ff;
+    border-bottom: 3px solid #8ae8ff;
+    border-left: 3px solid #8ae8ff;
+    border-radius: 40px;
+    box-shadow: 2px 2px 8px 4px rgba(59, 209, 247, 0.61);
+}
+
+.sonteen{
+    color: white;
+    font-size: 45px;
+    text-shadow: 2px 3px 6px rgba(0, 0, 0, 0.8);
+
+}
